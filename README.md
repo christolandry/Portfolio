@@ -7,7 +7,7 @@
 <ul>
     <li><a href="https://charlotteastrophiles.netlify.app/">Charlotte Astrophiles</a></li>
     <li><a href="https://ascentrunningcamp.com/">Ascent Running: Camp</a></li>
-    <li><a href="https://ascentrunningcoaching.com/"></a>Ascent Running: Coaching</li>
-    <li><a href="https://happytailsdoggroomings.netlify.app/"></a>Happy Tails Dog Grooming</li>
-    <li><a href="https://christolandry.com"></a>Professional Runner (retired)</li>
+    <li><a href="https://ascentrunningcoaching.com/">Ascent Running: Coaching</a></li>
+    <li><a href="https://happytailsdoggroomings.netlify.app/">Happy Tails Dog Grooming</a></li>
+    <li><a href="https://christolandry.com">Professional Runner (retired)</a></li>
 </ul>
