@@ -3163,8 +3163,8 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
-		background-position: top left,						center center;
+		background-image: url("images/overlay.png"), linear-gradient(to top, rgba(46, 49, 65, 0.2), rgba(46, 49, 65, 0.8)), url("../../images/banner-mountains.jpg");
+		background-position: top left,						center center,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
@@ -3896,3 +3896,13 @@
 			}
 
 	}
+
+/* Additions by Christo */
+
+#banner .noBottom{
+	margin-bottom: .25em;
+}
+
+#banner strong{
+	color: inherit;
+}
