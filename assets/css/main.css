@@ -4013,6 +4013,12 @@ header h2{
 	text-align: start;
 }
 
+/* footer */
+#footer{
+	padding: 2em 0 1em 0;
+}
+
+
 /* style 2 - used as the backdrop to the Portfolio section */
 .style2 {
 	background-attachment: scroll;
