@@ -3997,9 +3997,21 @@ header h2{
 	margin-top: 2em;
 }
 
+/* About me */
+#four header.major {
+	margin-bottom: 2em;
+}
 
+#headshot {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5%;
+}
 
-
+#four header{
+	text-align: start;
+}
 
 /* style 2 - used as the backdrop to the Portfolio section */
 .style2 {
