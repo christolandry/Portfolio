@@ -19,4 +19,13 @@ Increased my skill in CSS and graphic making on this project through the fine tu
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
+**Charlotte Astrophiles:** https://github.com/christolandry/Charlotte-Astrophiles
+
+**Happy Tails Dog Grooming:** https://github.com/christolandry/Happy-Tails
+
+**Ascent Running Camp:** https://AscentRunningCamp.com
+
+**Professional Runner (retired):** https://ChristoLandry.com
+
+**Ascent Running Coaching:** https://AscentRunningCoaching.com
 
